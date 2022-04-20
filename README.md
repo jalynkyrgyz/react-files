@@ -1,4 +1,4 @@
- https://jalynkyrgyz.github.io/react-files/public/index.html
+ https://jalynkyrgyz.github.io/react-files
 
 
 
